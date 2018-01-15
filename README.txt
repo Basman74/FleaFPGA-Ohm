@@ -21,14 +21,14 @@ FleaJTAG sources for both Windows and Linux platforms may be found at:
 https://github.com/XarkLabs/FleaFPGA-JTAG (Thank you Xark for your great work! :-)
 
 
-'FleaFPGA-Ohm-Blinky-test.vme'
+'FleaFPGA_Ohm_test.vme'
 ------------------------------
 'Blinky' test bitfile (.VME file extension) for uploading into your FleaFPGA Ohm board.
 Upload to your FleaFPGA Ohm board and watch the user LED blink at a rate of once per second! :-)
 Kindly refer to the Quickstart Guide for details on how to install and use this program.
 
 
-'FleaFPGA-Ohm-Blinky-test.zip'
+'FleaFPGA_Ohm_test.zip'
 ------------------------------
 Project source files for the 'Blinky' test example. Contains Top-level module and pin-out
 definition files (.VHD and .LPF extension) for use in custom user FPGA applications involving
