@@ -5,9 +5,9 @@ Welcome to my technical support page for the FleaFPGA Ohm project. :-)
 "OK. So what's in this github repository?"
 
 
-'FleaFPGA Ohm - Quickstart Guide Rev 0.11.pdf'
+'FleaFPGA Ohm - Quickstart Guide Rev 0.12.pdf'
 ---------------------------------------------
-FleaFPGA Ohm Quickstart Guide, preliminary version 0.11 (Schematics included).
+FleaFPGA Ohm Quickstart Guide, preliminary version 0.12 (Schematics included).
 38-page PDF that provides a starting point for users wanting to dive into their FleaFPGA Ohm 
 board, or as a reasonable reference for users who are already familiar with their FleaFPGA Ohm.
 
