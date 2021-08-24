@@ -10,7 +10,7 @@ http://www.fleasystems.com/source/FleaFPGA_Ohm_Quickstart_Guide_Rev_0.12.pdf
  
 Files included in this repository:
 
-'FleaFPGA-JTAG-Setup-v1.31-Win32.exe'
+'FleaFPGA-JTAG-Setup-Win32.exe'
 -------------------------------------
 FleaJTAG utility to configure the FleaFPGA Ohm board (Windows 32-bit installer version). 
 Kindly refer to the Quickstart Guide for details on how to install and use this program.
